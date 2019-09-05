@@ -1,6 +1,8 @@
 clear all
 close all
 
+
+
 set(0,'DefaultLineLineWidth',3)
 set(0,'DefaultAxesFontSize',20)
 set(0,'DefaultTextFontSize',20)
