@@ -1,2 +1,3 @@
 # karsample
-Sample repository
+Sample repositor
+Editing in sample branch.
